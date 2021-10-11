@@ -1,0 +1,39 @@
+.header-container {
+    background-color: #ee6c4d;
+
+    display: flex;  
+}
+
+body {
+    background-color: #98c1d9;
+}
+
+ul {
+    list-style-type: none;
+
+    margin: 0;
+    padding: 0;
+}
+  
+li {
+    float: left;
+
+    font-size: 24px;
+  }
+  
+li a {
+    display: block;
+
+    color: #98c1d9;
+    text-align: center;
+    text-decoration: none;
+
+    padding: 14px 16px;
+}
+
+li a:hover {
+    background-color: #98c1d9;
+
+    color: #ee6c4d;
+}
+
