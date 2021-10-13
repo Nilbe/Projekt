@@ -1,4 +1,4 @@
-* {
+*  {
     margin: 0;
     padding: 0;
 }
@@ -6,8 +6,8 @@
 header {
     background-color: #ee6c4d;
 
-    display: flex;  
-    justify-content: right;
+    display: flex; 
+    justify-content: right; 
 }
 
 body {
