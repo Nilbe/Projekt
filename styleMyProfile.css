@@ -7,7 +7,13 @@ header {
     background-color: #ee6c4d;
 
     display: flex; 
-    justify-content: right; 
+    justify-content: space-between; 
+}
+
+.logo {
+    color: #98c1d9;
+
+    padding: 14px 16px;
 }
 
 body {

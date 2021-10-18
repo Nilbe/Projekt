@@ -7,7 +7,13 @@ header {
     background-color: #ee6c4d;
 
     display: flex;  
-    justify-content: right;
+    justify-content: space-between;
+}
+
+.logo {
+    color: #98c1d9;
+
+    padding: 14px 16px;
 }
 
 body {
@@ -41,4 +47,22 @@ li a:hover {
     background-color: #98c1d9;
 
     color: #ee6c4d;
+}
+
+.form-container {
+    display: block;
+    justify-content: center;
+
+    line-height: 40px;
+    padding: 120px;
+}
+
+.form {
+    background-color: #ee6c4d;
+
+    padding: 20px;
+}
+
+.form h2 {
+    text-align: center;
 }
