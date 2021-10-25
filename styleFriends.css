@@ -4,14 +4,14 @@
 }
 
 header {
-    background-color: #ee6c4d;
+    background-color: white;
 
     display: flex;  
     justify-content: space-between;
 }
 
 .logo {
-    color: #98c1d9;
+    color: teal;
 
     padding: 14px 16px;
 }
@@ -36,7 +36,7 @@ li {
 li a {
     display: block;
 
-    color: #98c1d9;
+    color: rgb(12, 95, 95);
     text-align: center;
     text-decoration: none;
 
@@ -46,5 +46,5 @@ li a {
 li a:hover {
     background-color: #98c1d9;
 
-    color: #ee6c4d;
+    color: white;
 }

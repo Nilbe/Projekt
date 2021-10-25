@@ -1,17 +1,17 @@
-*  {
+* {
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #ee6c4d;
+    background-color: white;
 
-    display: flex; 
-    justify-content: space-between; 
+    display: flex;  
+    justify-content: space-between;
 }
 
 .logo {
-    color: #98c1d9;
+    color: teal;
 
     padding: 14px 16px;
 }
@@ -30,13 +30,14 @@ ul {
 li {
     float: right;
 
+
     font-size: 24px;
   }
   
 li a {
     display: block;
 
-    color: #98c1d9;
+    color: teal;
     text-align: center;
     text-decoration: none;
 
@@ -46,5 +47,31 @@ li a {
 li a:hover {
     background-color: #98c1d9;
 
-    color: #ee6c4d;
+    color: white;
+}
+
+.page-name {
+    color: white;
+
+    text-align: center;
+
+    margin: 20px;
+}
+
+.profile {
+    display: flex;
+
+    background-color: white;
+
+    margin-right: 25%;
+    margin-left: 25%;
+
+    padding: 20px;
+
+    
+    border-radius: 20px;
+}
+
+.profile img {
+    border-radius: 100px;
 }
