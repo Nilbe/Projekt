@@ -76,3 +76,11 @@ li a:hover {
 
     border-radius: 100px;
 }
+
+.contents {
+    color: white;
+
+    text-align: center;
+
+    padding: 120px;
+}
