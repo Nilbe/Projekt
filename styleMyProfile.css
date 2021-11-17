@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&family=Roboto:wght@300&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -8,12 +11,14 @@ header {
 
     display: flex;  
     justify-content: space-between;
+    font-family: 'Gemunu Libre', sans-serif;
 }
 
 .logo {
     color: teal;
 
     padding: 14px 16px;
+    font-family: 'Gemunu Libre', sans-serif;
 }
 
 body {
@@ -56,6 +61,7 @@ li a:hover {
     text-align: center;
 
     margin: 20px;
+    font-family: 'Gemunu Libre', sans-serif;
 }
 
 .profile {
